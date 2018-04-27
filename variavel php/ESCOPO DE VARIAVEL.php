@@ -15,6 +15,8 @@ function teste2 (){
 
 }
 
+
+//usa-se assim para chamar a function desejada
 teste ();
 teste2();
 
