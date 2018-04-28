@@ -18,10 +18,11 @@ echo $a / $b;
 
 echo '<br>';
 
+//Esse é a sobra da divisão um pelo outro
 echo $a % $b;
 
 echo '<br>';
-
+//esse aqui serve para botar assim 1^12 = 1
 echo $a ** $b;
 
 echo '<br>';

@@ -19,6 +19,7 @@ var_dump($a === $b);
 
 echo '<br>';
 
+//não é igual
 var_dump($a != $b);
 
 echo '<br>';
