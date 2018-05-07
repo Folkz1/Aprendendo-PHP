@@ -10,4 +10,15 @@ return $a + $b;
 
 }
 
+function fiosDeCabelo($fios = 50){
+
+	
+	return $fios;
+}
+
+function sobrenome($sobre){
+
+	echo "$sobre Fernandes <br>";
+}
+
  ?>

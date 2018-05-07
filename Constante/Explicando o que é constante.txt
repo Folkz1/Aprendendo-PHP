@@ -1,0 +1,5 @@
+Constante sempre será coisas que nunca mudam dentro do código. Por exemplo: IP conectado ao servidor; a linguagem do site . . .
+E demonstrando a possibilidade de criar constante com array que possibilita ligar com o banco de dados.
+
+documentação php
+http://php.net/manual/pt_BR/reserved.constants.php

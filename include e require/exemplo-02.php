@@ -19,4 +19,17 @@ $resultado = somar(10,25);
 
 echo $resultado;
 
+echo "<br>";
+
+$qtdfio = fiosDeCabelo(200);
+
+echo "Eu tenho $qtdfio fios de cabelo em mim.";
+echo "<br>";
+echo "<br>";
+
+sobrenome('Diego');
+sobrenome('Vilson');
+sobrenome('Bruno');
+sobrenome('Meli');
+
  ?>
