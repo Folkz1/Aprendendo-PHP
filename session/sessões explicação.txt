@@ -1,1 +1,2 @@
-é todas as variaveis usadas para o usuario que está acessando no momento como nome em caso de redes sociais,fotos... que vai ser usada na sessão
+é todas as variaveis usadas para o usuario que está acessando no momento como nome
+em caso de redes sociais,fotos... que vai ser usada na sessão
