@@ -10,7 +10,7 @@ $sobrenome = 'Francisco';
 $nomeCompleto1 = $nome ." ". $sobrenome;
 echo $nomeCompleto1;
 
-//para a leitura do códico quando adicionado exit
+//para no ponto addicionado a leitura do códico quando usado o exit
 exit;
 
 echo $nomeCompleto;

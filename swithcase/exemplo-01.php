@@ -1,6 +1,6 @@
 <?php 
 //Ele fala o dia na semana que se encontra no presente
-$diaDaSemana =  8;//date("w");
+$diaDaSemana = date("w");
 //O switch funciona com uma verdade só e se não for passa para próxima e se for da break e para.
 switch ($diaDaSemana) {
 

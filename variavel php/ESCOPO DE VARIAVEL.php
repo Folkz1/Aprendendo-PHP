@@ -3,7 +3,7 @@ $nome = 'Glaucio';
 
 //Esse é o modo padrão para criar uma função
 function teste (){
-	//usar dentro dessa função a variavel criada fora da função
+	//usar dentro dessa função a variavel criada fora da função usa-se a global
 	global $nome;
 	echo $nome;
 }
@@ -18,6 +18,7 @@ function teste2 (){
 
 //usa-se assim para chamar a function desejada
 teste ();
+echo "<br>";
 teste2();
 
  ?>
