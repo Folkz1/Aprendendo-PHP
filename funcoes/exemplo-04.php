@@ -8,5 +8,9 @@
 
 var_dump(ola("Bom dia",10));
 
+echo '<br>';
+
+echo ola();
+
 
  ?>
