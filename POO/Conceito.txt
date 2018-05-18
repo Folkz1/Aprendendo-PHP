@@ -1,0 +1,10 @@
+O que é uma classe? 
+Classe é o agrupamento de assuntos como: a classe de matemática. O que importa é o que ta dentro dela. 
+
+Atributo ou métodos: mesma coisa que variaveis com recursos adicionais. e elas pode se ter um controle de quem pode acessar os atributos dentro da classe. Os atributos estão dentro da classe.
+
+metodos: Funções chamadas de medtodos dentro da classe que ganham mais recursos.
+
+
+instância: Quando efetivamente será usado a classe.
+Objeto: Uma variavel que representa ou tira uma copia da classe. no PHP é o new. Quando coloca o neu que é o objeto é como se tivesse colocando um professor em uma sala de aula ,sendo que o professor da vida a sala de aula.
