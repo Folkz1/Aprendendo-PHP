@@ -22,7 +22,7 @@ class Endereco {
 
 }
 
-$e1 = new Endereco( "Rua ademar Gonçalves",12 , "Campo Bom");
+$e1 = new Endereco("Rua ademar Gonçalves", 12, "Campo Bom");
 echo $e1;
 var_dump($e1);
 
